@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+INFY TECH is a YouTube channel which delivers technical stuff like programming, tech news, developer news, tech facts, mobile tech and all the interesting technology trends. 
+
+## Channel: https://www.youtube.com/channel/UCuxkk3TD7cfPR08JEWVyXZA  
+
+## Website: https://infytech.netlify.com/
 
 ## INFY TECH
 
