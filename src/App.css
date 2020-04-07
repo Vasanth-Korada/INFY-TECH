@@ -18,10 +18,9 @@
   color: white;
 }
 .App-body{
-  min-height: 100vh;
+  min-height: 120vh;
   background-color: #282c34;
   display: flex;
-  min-height: 100vh;
   flex-direction: column;
   align-items: stretch;
   justify-content: stretch;
@@ -73,7 +72,6 @@ p {
 .footer {
   vertical-align: middle;
   height: 40px;
-  position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
@@ -82,7 +80,8 @@ p {
   text-align: start;
 }
 .footer-text{
-  margin-top: 10px;
+  padding: 7px;
+  /* margin-top: 10px; */
   margin-left: 10px;
 }
 .social-info{
